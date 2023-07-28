@@ -7,7 +7,8 @@ pip install tensorflow opencv-python matplotlib numpy pygame
 ### 1. Dataset
 Download: http://mrl.cs.vsb.cz/eyedataset
 ### 2. Training
+Use `train.ipynb`
+## 3. For detecting in real time
 ```bash
-
+python detect_webcam.py
 ```
-
